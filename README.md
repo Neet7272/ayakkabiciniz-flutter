@@ -19,31 +19,34 @@ Bu proje Flutter kullanılarak geliştirilmiş basit bir **ürün katalog uygula
 
 ## Ana Sayfa
 
-![Ana Sayfa](anasayfa.png)
+![Ana Sayfa](assets/screenshots/anasayfa.png)
 
 ---
 
 ## Ürün Detay Sayfası
 
-![Detay](anasayfa-ürüne-tiklama.png)
+![Detay](assets/screenshots/anasayfa-ürüne-tiklama.png)
+
 ---
 
 ## Sepet Sayfası
 
-![Sepet](sepet.png)
+![Sepet](assets/screenshots/sepet.png)
+
+---
 
 ## Ürün Arama
 
-![Arama](ürün-arama-kısmı.png)
+![Arama](assets/screenshots/ürün-arama-kısmı.png)
 
 ---
 
 ## Numara Seçme
 
-![Numara](ürün-numara-seçme.png)
+![Numara](assets/screenshots/ürün-numara-seçme.png)
 
 ---
 
-## Sepete Ürün Ekleme
+## Sepete Ekleme
 
-![Sepete Ekle](ürünü-sepete-ekleme.png)
+![Sepete Ekle](assets/screenshots/ürünü-sepete-ekleme.png)
