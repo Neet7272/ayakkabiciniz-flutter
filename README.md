@@ -1,16 +1,42 @@
-# ayakkabiciniz
+# Ayakkabıcınız - Flutter Mini Katalog Uygulaması
 
-A new Flutter project.
+Bu proje Flutter kullanılarak geliştirilmiş basit bir **ürün katalog uygulamasıdır.**
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- Ürün katalog ekranı
+- GridView ile kart tabanlı tasarım
+- Ürün detay sayfası
+- Sepete ürün ekleme
+- Ayakkabı numarası seçme
+- Sepet ekranı
+- Navigator ile sayfa geçişleri
+- Basit state yönetimi
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Uygulama Ekranları
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Ana Sayfa
+
+![Ana Sayfa](screenshots/home.png)
+
+---
+
+## Ürün Detay Sayfası
+
+![Detay](screenshots/detail.png)
+
+---
+
+## Sepet Sayfası
+
+![Sepet](screenshots/cart.png)
+
+---
+
+# Kullanılan Teknolojiler
+
+- Flutter
+- Dart
+- Material UI
