@@ -25,8 +25,7 @@ Bu proje Flutter kullanılarak geliştirilmiş basit bir **ürün katalog uygula
 
 ## Ürün Detay Sayfası
 
-![Detay](anasayfa-urune-tiklama.png)
-
+![Detay](anasayfa-ürüne-tiklama.png)
 ---
 
 ## Sepet Sayfası
