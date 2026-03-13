@@ -23,15 +23,9 @@ Bu proje Flutter kullanılarak geliştirilmiş basit bir **ürün katalog uygula
 
 ---
 
-## Ürün Detay Sayfası
+## Ürüne Tıklama
 
-![Detay](assets/screenshots/anasayfa-ürüne-tiklama.png)
-
----
-
-## Sepet Sayfası
-
-![Sepet](assets/screenshots/sepet.png)
+![Ürüne Tıklama](assets/screenshots/anasayfa-ürüne-tiklama.png)
 
 ---
 
@@ -50,3 +44,15 @@ Bu proje Flutter kullanılarak geliştirilmiş basit bir **ürün katalog uygula
 ## Sepete Ekleme
 
 ![Sepete Ekle](assets/screenshots/ürünü-sepete-ekleme.png)
+
+---
+
+## Sepet Sayfası
+
+![Sepet](assets/screenshots/sepet.png)
+
+---
+
+## Sipariş Verme
+
+![Sipariş](assets/screenshots/sipariş-verme.png)
